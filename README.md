@@ -22,4 +22,5 @@ Business value :Identifies markets with high customer value rather than high cus
 5.Demand Trend 
 How does product demand change monthly and yearly ?
 Business value :help forecast demand and optimize inventory planning 
+
 6.If our top performing country disapearped tomororw ,how much revenue would the business  lose ,and which country is  the most capable of replacing that revenue ? 
